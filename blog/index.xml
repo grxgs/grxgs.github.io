@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on grxgs</title>
+    <link>http://grxgs.com/blog/index.xml</link>
+    <description>Recent content in Blogs on grxgs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jan 2017 22:31:41 -0800</lastBuildDate>
+    <atom:link href="http://grxgs.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Post!</title>
+      <link>http://grxgs.com/blog/first-post</link>
+      <pubDate>Sat, 14 Jan 2017 22:31:41 -0800</pubDate>
+      
+      <guid>http://grxgs.com/blog/first-post</guid>
+      <description>&lt;p&gt;Kudos for stumbling upon this blog and more specifically this post. I&amp;rsquo;m not one for very long worded and fancy intros. So this will be a relatively short post.&lt;/p&gt;
+
+&lt;p&gt;This blog has a few purposes. The main purpose is to have somewhere to record my hopefully mildly entertaining life experiences. You probably just asked yourself what type of life experiences might you expect.&lt;/p&gt;
+
+&lt;p&gt;Well, this will focus on a two things really. First is my goal towards becoming employed as a software developer. I&amp;rsquo;ve been involved with technology in some capacity (more than less) for the past 7 years. After trying out a variety of roles, I figured I give software development an actual shot.&lt;/p&gt;
+
+&lt;p&gt;Secondly is my fitness journey. As a desk jockey and former Pepsi enthusiast I am not in the &lt;em&gt;best&lt;/em&gt; shape I could be. After realizing that it&amp;rsquo;s easier to get in shape sooner than later figured I start now. As opposed to waiting until I&amp;rsquo;m in my 40s.&lt;/p&gt;
+
+&lt;p&gt;One of the other purposes of this blog is hopefully serve as some motivation (for myself and others)as I progress. As time goes by, it would be great to look back at my former self and see how I&amp;rsquo;ve changed and improved. Along with that, it would be great if this blog convinced just one other person to do the same.&lt;/p&gt;
+
+&lt;p&gt;Besides that, there isn&amp;rsquo;t much more for me say. The next few posts you&amp;rsquo;ll see will talk about what I plan on learning and learning plan. Until next time&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;grxgs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grxgs</title>
+    <link>http://grxgs.com/index.xml</link>
+    <description>Recent content on grxgs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2017 09:32:27 -0800</lastBuildDate>
+    <atom:link href="http://grxgs.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>http://grxgs.com/projects/</link>
+      <pubDate>Sun, 15 Jan 2017 09:32:27 -0800</pubDate>
+      
+      <guid>http://grxgs.com/projects/</guid>
+      <description>&lt;p&gt;Nothing here&amp;hellip;yet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://grxgs.com/about/</link>
+      <pubDate>Sun, 15 Jan 2017 09:32:23 -0800</pubDate>
+      
+      <guid>http://grxgs.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m going to try and keep this short and simple. I&amp;rsquo;m just a simple person whose trying to get into software development. Along with that, I&amp;rsquo;m also trying to improve my physical and mental health. If you want to know anything else, just reach out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>http://grxgs.com/books/</link>
+      <pubDate>Sun, 15 Jan 2017 09:31:30 -0800</pubDate>
+      
+      <guid>http://grxgs.com/books/</guid>
+      <description>
+
+&lt;p&gt;Here you&amp;rsquo;ll find the books that I&amp;rsquo;m currently interested in reading. Currently, it&amp;rsquo;s pretty heavy towards business. Once I complete these, I&amp;rsquo;ll throw in some fiction for good measure. Recommendations are always welcome!&lt;/p&gt;
+
+&lt;h2 id=&#34;currently-reading&#34;&gt;Currently Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Sympathizer&lt;/strong&gt; - Viet Thanh Nguyen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;up-next&#34;&gt;Up Next&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Compound Effect&lt;/strong&gt; - Darren Hardy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Influence: Science and Principle&lt;/strong&gt; - Robert B. Cialdini&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Influence: The Psychology of Persuasion&lt;/strong&gt; - Robert B. Cialdini&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mindwise: Why We Misunderstand What Others Think, Believe, Feel, and Want&lt;/strong&gt; - Nicholas Epley&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days&lt;/strong&gt; - Jake Knapp and John Zeratsky&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations&lt;/strong&gt; - James M. Kouzes and Barry Z. Posner&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Post!</title>
+      <link>http://grxgs.com/blog/first-post</link>
+      <pubDate>Sat, 14 Jan 2017 22:31:41 -0800</pubDate>
+      
+      <guid>http://grxgs.com/blog/first-post</guid>
+      <description>&lt;p&gt;Kudos for stumbling upon this blog and more specifically this post. I&amp;rsquo;m not one for very long worded and fancy intros. So this will be a relatively short post.&lt;/p&gt;
+
+&lt;p&gt;This blog has a few purposes. The main purpose is to have somewhere to record my hopefully mildly entertaining life experiences. You probably just asked yourself what type of life experiences might you expect.&lt;/p&gt;
+
+&lt;p&gt;Well, this will focus on a two things really. First is my goal towards becoming employed as a software developer. I&amp;rsquo;ve been involved with technology in some capacity (more than less) for the past 7 years. After trying out a variety of roles, I figured I give software development an actual shot.&lt;/p&gt;
+
+&lt;p&gt;Secondly is my fitness journey. As a desk jockey and former Pepsi enthusiast I am not in the &lt;em&gt;best&lt;/em&gt; shape I could be. After realizing that it&amp;rsquo;s easier to get in shape sooner than later figured I start now. As opposed to waiting until I&amp;rsquo;m in my 40s.&lt;/p&gt;
+
+&lt;p&gt;One of the other purposes of this blog is hopefully serve as some motivation (for myself and others)as I progress. As time goes by, it would be great to look back at my former self and see how I&amp;rsquo;ve changed and improved. Along with that, it would be great if this blog convinced just one other person to do the same.&lt;/p&gt;
+
+&lt;p&gt;Besides that, there isn&amp;rsquo;t much more for me say. The next few posts you&amp;rsquo;ll see will talk about what I plan on learning and learning plan. Until next time&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;grxgs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
