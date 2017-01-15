@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://grxgs.com/projects/</loc>
+    <loc>https://grxgs.com/projects/</loc>
     <lastmod>2017-01-15T09:32:27-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://grxgs.com/about/</loc>
+    <loc>https://grxgs.com/about/</loc>
     <lastmod>2017-01-15T09:32:23-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://grxgs.com/books/</loc>
+    <loc>https://grxgs.com/books/</loc>
     <lastmod>2017-01-15T09:31:30-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://grxgs.com/blog/first-post</loc>
+    <loc>https://grxgs.com/blog/first-post</loc>
     <lastmod>2017-01-14T22:31:41-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://grxgs.com/blog/</loc>
+    <loc>https://grxgs.com/blog/</loc>
     <lastmod>2017-01-14T22:31:41-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://grxgs.com/</loc>
+    <loc>https://grxgs.com/</loc>
     <lastmod>2017-01-15T09:32:27-08:00</lastmod>
     <priority>0</priority>
   </url>
