@@ -6,8 +6,47 @@
     <description>Recent content on grxgs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jan 2017 09:32:27 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2017 16:30:01 -0800</lastBuildDate>
     <atom:link href="https://grxgs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>timeline</title>
+      <link>https://grxgs.github.io/blog/what-im-learning-and-timeline</link>
+      <pubDate>Sun, 15 Jan 2017 16:30:01 -0800</pubDate>
+      
+      <guid>https://grxgs.github.io/blog/what-im-learning-and-timeline</guid>
+      <description>
+
+&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+
+&lt;p&gt;At this point, it would be useful to layout exactly what I plan on learning. Having everything laid out and planned makes it easier to keep progressing. This timeline will be for 30 days.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll primarily be focusing on learning (or relearning) the Python programming language. To accomplish this, I&amp;rsquo;ll be following &amp;ldquo;Python Crash Course&amp;rdquo; by Eric Matthes.&lt;/p&gt;
+
+&lt;p&gt;I chose this particular book mainly for Part II of the book which is focused on 3 different types of projects. Along with that, each chapter ends with several exercises to reinforce the lessons. For anyone curious, I&amp;rsquo;ll be using Python 3 to go through the book.&lt;/p&gt;
+
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Days 1 - 5: Chapters 1 - 4&lt;/li&gt;
+&lt;li&gt;Days 6 - 10: Chapters 5 - 8&lt;/li&gt;
+&lt;li&gt;Days 11 - 15: Chapters 9 - 11&lt;/li&gt;
+&lt;li&gt;Days 16 - 20: Chapters 12 - 14 (Project 1)&lt;/li&gt;
+&lt;li&gt;Days 21 - 25: Chapters 15 - 17 (Project 2)&lt;/li&gt;
+&lt;li&gt;Days 26 - 30: Chapters 18 - 20 (Project 3)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can find the table of contents for &amp;ldquo;Python Crash Course&amp;rdquo; &lt;a href=&#34;https://www.nostarch.com/pythoncrashcourse&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For those who remember learning programming this timeline is obviously aggressive. The reason this timeline is so aggressive is because I have previous programming experience. In Python at that.&lt;/p&gt;
+
+&lt;p&gt;These 30 days will serve more as a reintroduction to the world of programming and Python. I&amp;rsquo;ll be posting updates every 5 days. However, you will see commits over on my &lt;a href=&#34;https://github.com/grxgs&#34;&gt;Github&lt;/a&gt; everyday.&lt;/p&gt;
+
+&lt;p&gt;Until next time&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; grxgs&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Projects</title>
