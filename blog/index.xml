@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on grxgs</title>
-    <link>https://grxgs.github.io/blog/index.xml</link>
+    <link>http://grxgs.com/blog/index.xml</link>
     <description>Recent content in Blogs on grxgs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jan 2017 16:30:01 -0800</lastBuildDate>
-    <atom:link href="https://grxgs.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://grxgs.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What I&#39;m learning and its timeline</title>
-      <link>https://grxgs.github.io/blog/what-im-learning-and-timeline</link>
+      <link>http://grxgs.com/blog/what-im-learning-and-timeline</link>
       <pubDate>Sun, 15 Jan 2017 16:30:01 -0800</pubDate>
       
-      <guid>https://grxgs.github.io/blog/what-im-learning-and-timeline</guid>
+      <guid>http://grxgs.com/blog/what-im-learning-and-timeline</guid>
       <description>
 
 &lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>First Post!</title>
-      <link>https://grxgs.github.io/blog/first-post</link>
+      <link>http://grxgs.com/blog/first-post</link>
       <pubDate>Sat, 14 Jan 2017 22:31:41 -0800</pubDate>
       
-      <guid>https://grxgs.github.io/blog/first-post</guid>
+      <guid>http://grxgs.com/blog/first-post</guid>
       <description>&lt;p&gt;Kudos for stumbling upon this blog and more specifically this post. I&amp;rsquo;m not one for very long worded and fancy intros. So this will be a relatively short post.&lt;/p&gt;
 
 &lt;p&gt;This blog has a few purposes. The main purpose is to have somewhere to record my hopefully mildly entertaining life experiences. You probably just asked yourself what type of life experiences might you expect.&lt;/p&gt;
