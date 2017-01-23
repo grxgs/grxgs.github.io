@@ -6,8 +6,38 @@
     <description>Recent content on grxgs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jan 2017 16:30:01 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 17:28:44 -0800</lastBuildDate>
     <atom:link href="http://grxgs.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 1 Review</title>
+      <link>http://grxgs.com/blog/week-1-review</link>
+      <pubDate>Sun, 22 Jan 2017 17:28:44 -0800</pubDate>
+      
+      <guid>http://grxgs.com/blog/week-1-review</guid>
+      <description>
+
+&lt;h1 id=&#34;week-1-review&#34;&gt;Week 1 Review&lt;/h1&gt;
+
+&lt;p&gt;If you&amp;rsquo;re following the &lt;a href=&#34;http://grxgs.com/blog/what-im-learning-and-timeline/&#34;&gt;timeline&lt;/a&gt; I set in my last post, you&amp;rsquo;ll know that week 1 is finally complete. Week 1 went surprisingly well. In the first four chapters, we covered setting up python, variables, lists, tuples, strings, basic numerical operations, and looping.&lt;/p&gt;
+
+&lt;p&gt;Getting Python set up on my machine was no problem. Instead of doing everything on my machine locally, I opted to use a virtual machine. I&amp;rsquo;m using the Ubuntu 14.04 LTS. I&amp;rsquo;ll be upgrading to 16.04 LTS sometime next week. Having my entire environment on a virtual machine is a lot easier for me.&lt;/p&gt;
+
+&lt;p&gt;I feel more comfortable testing and making changes on a system that&amp;rsquo;s entirely separate from what I use everyday. I used to work with the command line quite a lot so everything is very familiar.&lt;/p&gt;
+
+&lt;p&gt;The flip side to this is that I needed to completely configure a command line environment. Fleshing out my .bashrc file has been a fun exercise as I remember all of the CLI shortcuts and CLI programs that are available.&lt;/p&gt;
+
+&lt;p&gt;In regards to actual Python, the chapters have been fairly easy. The difficult part of this is reacquainting myself with Python&amp;rsquo;s syntax. While it is readable the fact that I haven&amp;rsquo;t really used it or read it in several years is obvious.&lt;/p&gt;
+
+&lt;p&gt;The easy part though has been remembering the concepts of everything. Variables are just a way of storing data in a way that makes them easier to access and use later. Lists and tuples are just containers for different types of data. Looping is just a construct that allows us to perform iteration really easily.&lt;/p&gt;
+
+&lt;p&gt;The fact that the concepts are coming back so easily is really driving me to read and get through all of the exercises in each chapter. So much so that I&amp;rsquo;ve already read Chapter 5 well before I&amp;rsquo;m supposed to. Hopefully, week 2 goes just as well or better than week 1.&lt;/p&gt;
+
+&lt;p&gt;Until next time&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; grxgs&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What I&#39;m learning and its timeline</title>
